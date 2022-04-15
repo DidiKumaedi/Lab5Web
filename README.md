@@ -11,6 +11,15 @@ Pemrograman WEB
 Pertanyaan dan Tugas
 1. Buat script untuk melakukan validasi pada isian form.
 
+![Screenshot (163)](https://user-images.githubusercontent.com/101849655/163604259-79c51111-8c80-4985-884b-fd912c5f31ad.png)
+![Screenshot (164)](https://user-images.githubusercontent.com/101849655/163604291-2253f048-7c2b-4315-b69a-d2be45ff5139.png)
+![Screenshot (165)](https://user-images.githubusercontent.com/101849655/163604298-4458ebd4-59ad-4f92-960e-3573c8df2b7b.png)
+![Screenshot (166)](https://user-images.githubusercontent.com/101849655/163604304-139a2141-15eb-4e09-9c50-4363065f047a.png)
+
+Hasil Web
+![Screenshot (167)](https://user-images.githubusercontent.com/101849655/163604309-b7b9556e-85f4-4e3f-ad84-3b86bdd43cd6.png)
+
+
 
 
 Langkah-langkah Praktikum
